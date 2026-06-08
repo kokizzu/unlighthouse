@@ -54,7 +54,7 @@ catalogs:
     h3: ^1.15.11
     hookable: ^6.1.0
     launch-editor: ^2.13.2
-    lighthouse: ^13.1.0
+    lighthouse: ^13.3.0
     lightweight-charts: ^5.1.0
     listhen: ^1.9.1
     lodash-es: ^4.18.1
